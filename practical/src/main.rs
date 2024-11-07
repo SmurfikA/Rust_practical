@@ -19,6 +19,7 @@ mod is_prime;
 mod is_palindrome;
 mod rotate;
 mod Rectangle;
+mod shipments;
 
 fn main() {
     println!("Hello, world!");
