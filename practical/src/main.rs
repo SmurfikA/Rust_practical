@@ -21,6 +21,7 @@ mod rotate;
 mod Rectangle;
 mod shipments;
 mod gray_code;
+mod muxa_slon;
 
 fn main() {
     println!("Hello, world!");
