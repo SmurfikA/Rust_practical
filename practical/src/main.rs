@@ -17,6 +17,7 @@ mod cristmas_tree;
 mod invert_the_case;
 mod is_prime;
 mod is_palindrome;
+mod rotate;
 
 fn main() {
     println!("Hello, world!");
