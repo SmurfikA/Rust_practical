@@ -1,3 +1,4 @@
+#[test]
 fn test() {
     let (x, y);
     (x, _) = (3, 4);
