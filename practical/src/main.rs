@@ -23,6 +23,7 @@ mod shipments;
 mod gray_code;
 mod muxa_slon;
 mod rectangles;
+mod min_adjacent_sum;
 
 fn main() {
     println!("Hello, world!");
