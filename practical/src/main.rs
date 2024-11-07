@@ -20,6 +20,7 @@ mod is_palindrome;
 mod rotate;
 mod Rectangle;
 mod shipments;
+mod gray_code;
 
 fn main() {
     println!("Hello, world!");
