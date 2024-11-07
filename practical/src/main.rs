@@ -9,6 +9,7 @@ mod lb6;
 mod lb5;
 mod lb7;
 mod lb8;
+mod lb9;
 
 fn main() {
     println!("Hello, world!");
