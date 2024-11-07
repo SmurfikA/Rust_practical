@@ -15,6 +15,7 @@ mod lb11;
 mod lb12;
 mod cristmas_tree;
 mod invert_the_case;
+mod is_prime;
 
 fn main() {
     println!("Hello, world!");
