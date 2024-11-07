@@ -18,6 +18,7 @@ mod invert_the_case;
 mod is_prime;
 mod is_palindrome;
 mod rotate;
+mod Rectangle;
 
 fn main() {
     println!("Hello, world!");
