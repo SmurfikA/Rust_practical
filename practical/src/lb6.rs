@@ -5,9 +5,9 @@ fn test1() {
 #[test]
 fn test() {
     let s: &str = "hello, world";
-    greetings(s)
+    main(s);
 }
-fn greetings(s: &str) {
+fn main(s: &str) {
     println!("{}",s)
 }
 #[test]
