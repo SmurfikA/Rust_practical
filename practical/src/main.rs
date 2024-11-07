@@ -13,6 +13,7 @@ mod lb9;
 mod lb10;
 mod lb11;
 mod lb12;
+mod cristmas_tree;
 
 fn main() {
     println!("Hello, world!");
